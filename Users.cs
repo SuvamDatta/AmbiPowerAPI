@@ -1,4 +1,4 @@
-﻿namespace HackathonWebAPI
+﻿namespace app
 {
     public class Users
     {

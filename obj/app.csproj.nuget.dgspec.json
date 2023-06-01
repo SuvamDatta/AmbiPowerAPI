@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\FINAL_API\\HackathonWebAPI\\app.csproj": {}
+    "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\devfile-sample-dotnet60-basic-main\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\FINAL_API\\HackathonWebAPI\\app.csproj": {
+    "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\devfile-sample-dotnet60-basic-main\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\FINAL_API\\HackathonWebAPI\\app.csproj",
+        "projectUniqueName": "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\devfile-sample-dotnet60-basic-main\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\FINAL_API\\HackathonWebAPI\\app.csproj",
+        "projectPath": "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\devfile-sample-dotnet60-basic-main\\app.csproj",
         "packagesPath": "C:\\Users\\003CZM744\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\FINAL_API\\HackathonWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\devfile-sample-dotnet60-basic-main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,10 +49,6 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.33, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
             }
           },
           "imports": [
