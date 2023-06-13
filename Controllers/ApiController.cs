@@ -23,7 +23,7 @@ namespace app.Controllers
                 Object obj;
                 List<Users> lstUsers = new List<Users>();
                 Users users = new Users();
-                string cstring = "Server=172.21.130.220;Port=3306;User ID=ambiuser;Password=ambi@12345;Database=AmbiDB";
+                string cstring = "Server=172.21.190.214;Port=3306;User ID=ambiuser;Password=ambi@12345;Database=ambidb";
                 using var connection = new MySqlConnection(cstring);
                 connection.Open();
                 using var command = new MySqlCommand("SELECT Top 1 * FROM Users;", connection);
