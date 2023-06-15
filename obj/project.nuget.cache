@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XcPxWjctGmEKzEjWkuj5ljqmeC3phSYUuJX0yRAjLS/VTxz/0JgtVZF6EqL8vuPSzF3tKrguSLdRouqTflTLqA==",
+  "dgSpecHash": "1Zj/s7TNxRxAk/i3hBcssWeuo++VwuZ/dFNaryLzKJbMuIzUqhvNM8jH8LVmAK+U2A/iX7W2/9X2x8pkGv4nQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\devfile-sample-dotnet60-basic-main\\app.csproj",
+  "projectFilePath": "C:\\Users\\003CZM744\\Desktop\\TFS\\Hackathon 2023\\AmbiPowerAPI_DotNet\\app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\003CZM744\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\003CZM744\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
